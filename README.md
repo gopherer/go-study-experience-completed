@@ -12,7 +12,7 @@ LeedCode和Operating-System 偶尔写了几个例子，就几个
 
 TestProject 里面是一些具体的项目实例 有go-gin go-gtk 等等的  也有部分是半成品 闲暇学习过程中写了
 
-![image](https://github.com/gopherer/go-study-experience-completed/tree/main/readmePhoto)
+![image](https://github.com/gopherer/go-study-experience-completed/tree/main/readmePhoto/01GoStudyExperience.png)
 
 
 
