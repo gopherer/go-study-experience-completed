@@ -1,0 +1,24 @@
+{
+  "app_name": "cloudRestaurant",
+  "app_mode": "debug",
+  "app_host": "localhost",
+  "app_port": "8080",
+  "sms": {
+    "sign": "线上餐厅",
+    "template_code": "SMS_xxx",
+    "app_key": "xxx",
+    "app_secret": "xxx",
+    "region_id": "xxx(xxx)表示数据为填入"
+  },
+  "database": {
+    "driver": "mysql",
+    "user": "root",
+    "password": "root",
+    "host": "127.0.0.1",
+    "port": "3306",
+    "db_name": "cloudRestaurant",
+    "charset": "utf8",
+    "show_sql": true
+  }
+}
+
