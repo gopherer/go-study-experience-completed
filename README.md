@@ -19,6 +19,7 @@ TestProject 里面是一些具体的项目实例 有go-gin go-gtk 等等的  也
 ![image](https://github.com/gopherer/go-study-experience-completed/raw/main/readmePhoto/go-gtk.png)
 ![image](https://github.com/gopherer/go-study-experience-completed/raw/main/readmePhoto/leedCode-OperatingSystem.png)
 ![image](https://github.com/gopherer/go-study-experience-completed/raw/main/readmePhoto/testProject.png)
+Reversi是go-gtk开发的游戏 下有image Reversi文件夹
 
 
 
